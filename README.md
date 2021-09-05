@@ -6,12 +6,14 @@ It is a 5-week long event. It consists of three tracks that are Web Development,
 ### Schedule and Syllabus
 
 #### Week 1
-######Sessions
+
+#####Sessions
 - Day 1 : Basic frontend (HTML+CSS+Bootstrap)
 - Day 2 : 
     A. Javascript
     B. Frontend with React
-######Challenges
+    
+#####Challenges
 - Make a Calculator Web App/Counter Button Using Javascript
 - Design the frontend of your portfolio website using ReactJS
 
