@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Functionalities the web app can perform :
+- add tasks
+- edit/update tasks
+- delete specific task
+- delete all tasks
+- persist tasklist even after refreshing
+- scrolling feature for larger no of tasks
+
 ## Available Scripts
 
 In the project directory, you can run:
