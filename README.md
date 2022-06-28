@@ -18,9 +18,15 @@ It is a 5-week long event. It consists of three tracks that are Web Development,
 
 #### Week 2
 
-#### Week 3
+##### Sessions
+- Day 1 : Backend with Node.js
+- Day 2 : Setting up Authentication using Sawo Labs API  
+##### Challenges
+- Create a simple todo application using Node.js
+It should have the following end points
+-add - to add a TODO
+-all - to see the list of all todos
 
-#### Week 4
 
 ### More Details
 Visit the official webpage - [Developer Days](https://developerdays.tech/track/0)
